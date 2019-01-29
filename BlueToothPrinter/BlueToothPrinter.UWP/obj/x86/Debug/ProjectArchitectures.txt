@@ -1,0 +1,1 @@
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter.UWP\BlueToothPrinter.UWP.csproj;x86

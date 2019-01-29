@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:BlueToothPrinter.ViewModels;assembly=BlueToothPrinter"
+             x:Class="BlueToothPrinter.Pages.PrintPage">
+    <ContentPage.BindingContext>
+        <viewmodels:PrintPageViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker ItemsSource="{Binding DeviceList}"
+                    Title="Select Device"
+                    ItemDisplayBinding="{Binding .}"
+                    SelectedItem="{Binding SelectedDevice}" />
+            <Entry Text="{Binding PrintMessage}"
+                   Placeholder="Message"/>
+            <Button Text="Print"
+                    Command="{Binding PrintCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

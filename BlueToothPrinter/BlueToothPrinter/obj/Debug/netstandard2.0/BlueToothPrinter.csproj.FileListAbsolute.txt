@@ -1,0 +1,12 @@
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\bin\Debug\netstandard2.0\BlueToothPrinter.deps.json
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\bin\Debug\netstandard2.0\BlueToothPrinter.dll
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\bin\Debug\netstandard2.0\BlueToothPrinter.pdb
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\BlueToothPrinter.csprojAssemblyReference.cache
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\BlueToothPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\BlueToothPrinter.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\BlueToothPrinter.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\BlueToothPrinter.dll
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\BlueToothPrinter.pdb
+C:\Users\Yigit\source\repos\BlueToothPrinter\BlueToothPrinter\BlueToothPrinter\obj\Debug\netstandard2.0\Pages\PrintPage.xaml.g.cs
